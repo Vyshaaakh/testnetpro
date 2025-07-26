@@ -2,3 +2,4 @@
 on testnet
 using
 github
+airdrop
